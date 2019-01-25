@@ -10,7 +10,7 @@
         "jetea/exception": "~1.0",
         "jetea/support": "~1.0",
         "nikic/fast-route": "^1.3",
-        "phpctx/ctx": "~1.0",
+        "jetea/ctx": "~1.0",
         "jetea/config": "~2.0",
         "jetea/database": "~2.0",
         "jetea/queue": "~2.0",
