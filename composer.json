@@ -15,7 +15,7 @@
         "jetea/database": "~2.0",
         "jetea/queue": "~2.0",
         "predis/predis": "^1.1",
-        "twig/twig": "^2.0",
+        "twig/twig": "^3.23.0",
         "vlucas/phpdotenv": "~2.2"
     },
 
